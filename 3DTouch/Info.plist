@@ -34,22 +34,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIApplicationShortcutItems</key>
-	<array>
-		<dict>
-			<key>UIApplicationShortcutItemType</key>
-			<string></string>
-			<key>UIApplicationShortcutItemTitle</key>
-			<string></string>
-			<key>UIApplicationShortcutItemSubtitle</key>
-			<string>Hello</string>
-			<key>UIApplicationShortcutItemIconType</key>
-			<string>World</string>
-			<key>UIApplicationShortcutItemIconFile</key>
-			<string></string>
-			<key>UIApplicationShortcutItemUserInfo</key>
-			<string></string>
-		</dict>
-	</array>
 </dict>
 </plist>
