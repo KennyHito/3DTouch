@@ -26,7 +26,7 @@
 }
 
 
-//手动发送通知
+//检测App启动方式
 -(void)application:(UIApplication *)application performActionForShortcutItem:(UIApplicationShortcutItem *)shortcutItem completionHandler:(void (^)(BOOL))completionHandler{
 
     if([shortcutItem.type isEqualToString:@"ONE"]){
