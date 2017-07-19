@@ -91,4 +91,7 @@ for (int i = 0; i<titleArr.count; i++) {
 效果图
 -----------------------
 
-![icon](11111.jpeg)
+<div  align="center">    
+<img src="11111.jpeg" width="375" height="700" />
+</div>
+
