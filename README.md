@@ -92,6 +92,6 @@ for (int i = 0; i<titleArr.count; i++) {
 -----------------------
 
 <div  align="center">    
-<img src="11111.jpeg" width="375" height="700" />
+<img src="11111.jpeg" width="300" height="550" />
 </div>
 
